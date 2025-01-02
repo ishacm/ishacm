@@ -4,13 +4,6 @@
 🌿 [Check out my Portfolio here](https://ishachaudhari.notion.site/Isha-Chaudhari-59f5e139e6ea493fbbe6da550541316d) \
 🌿 [Resume](https://drive.google.com/file/d/1hghunWU87YyU7NIeZkKH9ePlsDKDHaKt/view?usp=sharing)
 
-🌿 Some of my works-
-1.	[Video Summarizer with GenAI & AWS serverless](https://github.com/ishacm/video-summarizer-llm-aws-serverless)
-2.	[Amazon Products Sentiment Analyser (with NLP)](https://github.com/ishacm/amazon-products-nlp-sentiment-analyzer)
-3.	[Realtime Twitter Data Analysis & Visualization](https://github.com/ishacm/realtime-insights-from-twitter-data)
-4.	[Facial Recognition System](https://github.com/ishacm/facenet-facial-recognition)
-5.	[Multi-factor Authentication with Google Authenticator (MERN stack)](https://github.com/ishacm/multi-factor-authentication)
-
 ---
 
 <h3 align="left">🌿 Languages and Tools:</h3>
