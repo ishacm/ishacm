@@ -1,6 +1,5 @@
 <h3 align="left">AI developer, passionate into building products</h3>
 
-<img alt="alt_text" width="230px" src="isha.jpg"/>
 
 🌿 [Check out my Portfolio here](https://ishachaudhari.notion.site/Isha-Chaudhari-59f5e139e6ea493fbbe6da550541316d) \
 🌿 [Resume](https://drive.google.com/file/d/1hghunWU87YyU7NIeZkKH9ePlsDKDHaKt/view?usp=sharing)
