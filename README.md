@@ -14,13 +14,13 @@
 
 <h3 align="left">🌿 People that inspire me to build</h3>
 
-[**Andrej Karpathy**](https://karpathy.github.io/): A brilliant AI researcher who spent time building at OpenAI & as Chief AI Officer at Tesla. He is loved in on the tech twitter a lot.    
+[**Andrej Karpathy**](https://karpathy.github.io/): A brilliant AI researcher who spent time building at OpenAI & as Chief AI Officer at Tesla.
 
-[**Paul Graham**](http://paulgraham.com/articles.html): The founder of Y Combinator, writes most amazing essays with a focus on startips, ideas, daily-life, hacking productivity. Most loved celebrity of nerdy founders  
+[**Paul Graham**](http://paulgraham.com/articles.html): Founder - Y Combinator, writes most amazing essays with a focus on startips, ideas, daily-life, hacking productivity. 
 
-[Do Things That Don’t Scale](http://paulgraham.com/ds.html): An amazing tip on gaining initial traction and leverage by doing high-impact activities that won’t scale, but that will work effectively for the time being. 
+[**Sam Altman**](https://blog.samaltman.com/): CEO @ OpenAI
 
-[**Sam Altman**](https://blog.samaltman.com/): The CEO of OpenAI
+[Mukesh Bannsal](https://www.sparxbymukeshbansal.com/): Founder, Cure.fit, Meraki Labs
 
 -----
 
