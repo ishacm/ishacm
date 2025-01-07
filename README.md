@@ -1,4 +1,4 @@
-<h3 align="left">AI developer, passionate into building products</h3>
+<h3 align="left">👋🏽 AI developer, passionate into building products</h3>
 
 
 🌿 [Check out my Portfolio here](https://ishachaudhari.notion.site/Isha-Chaudhari-59f5e139e6ea493fbbe6da550541316d) \
