@@ -1,7 +1,7 @@
 <h2 align="left">AI developer, passionate into building products</h3>
 
 
-✨ [Check out my Portfolio here](https://ishachaudhari.notion.site/Isha-Chaudhari-59f5e139e6ea493fbbe6da550541316d) |🧾 [Resume](https://drive.google.com/file/d/1Fybi_mmG6qYhmZX16QqlFMf3EKzXvH4M/view?usp=drive_link)
+✨ [Portfolio](https://ishachaudhari.framer.website/) |🧾 [Resume](https://drive.google.com/file/d/1Fybi_mmG6qYhmZX16QqlFMf3EKzXvH4M/view?usp=drive_link)
 
 -----
 
