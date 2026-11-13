@@ -1,16 +1,13 @@
-## Hi there 👋
+### hi, i'm isha.
 
-<!--
-**ishacm/ishacm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI systems, experiment with machine learning, and occasionally make weird things for fun.
 
-Here are some ideas to get you started:
+Previously: robotics, computer vision, RAG, fraud detection, and data engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently curious about: **AI agents · physical AI · scientific ML · creative coding**
+
+This GitHub is a mix of things I've built, things I'm learning, and ideas I couldn't leave alone.
+
+`python` `typescript` `machine learning`
+
+[inkedin]([https://www.linkedin.com/](https://www.linkedin.com/in/ishachaudhari/)) · [say hello](mailto:isha.chaudhari@gmail.com)
