@@ -10,4 +10,4 @@ This GitHub is a mix of things I've built, things I'm learning, and ideas I coul
 
 `python` `typescript` `machine learning`
 
-[inkedin]([https://www.linkedin.com/](https://www.linkedin.com/in/ishachaudhari/)) · [say hello](mailto:isha.chaudhari@gmail.com)
+[linkedin]([[https://www.linkedin.com/](https://www.linkedin.com/in/ishachaudhari/)]) · [email](mailto:isha.chaudhari@gmail.com)
